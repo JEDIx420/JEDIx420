@@ -1,5 +1,7 @@
 # 👋 Hey, I’m Jay :)
 
+Checkout my work at jayanand.xyz ⚡️
+
 🚀 I’m building futuristic AI tools, vibe-coded side projects, and automation-first productivity stacks.  
 🤖 Special focus on AI agents, automation workflows (n8n), and natural user interfaces.  
 🧠 Passionate about building AI that augments human capability—not replaces it.  
