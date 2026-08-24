@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Jayanand J — Founder and CEO at Eagle Eye Systems" />
+  <img src="./assets/profile-hero.svg" width="100%" alt="Jayanand J — Founder & CEO at Eagle Eye Systems" />
 
-  <br/>
+  <p>
+    <strong>Building AI systems that ship.</strong><br/>
+    Founder &amp; CEO at Eagle Eye Systems · Enterprise AI · Agentic automation · GTM engineering · Product engineering
+  </p>
 
-  <a href="https://eagleeyesystems.in/"><img src="https://img.shields.io/badge/Eagle_Eye_Systems-Explore_company-05070B?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=1D4ED8" alt="Explore Eagle Eye Systems" /></a>
-  <a href="https://rhelobible.com/"><img src="https://img.shields.io/badge/Rhelo-Visit_site-05070B?style=for-the-badge&logo=bookstack&logoColor=FFFFFF&labelColor=2563EB" alt="Visit Rhelo" /></a>
-  <a href="https://jedix420.github.io/musicandbeats/"><img src="https://img.shields.io/badge/Music_%26_Beats-Launch_live-05070B?style=for-the-badge&logo=applemusic&logoColor=FFFFFF&labelColor=3B82F6" alt="Music and Beats" /></a>
-  <a href="mailto:jay@eagleeyesystems.in"><img src="https://img.shields.io/badge/Build_with_me-jay%40eagleeyesystems.in-05070B?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=1E3A8A" alt="Email Jay" /></a>
-
-  <br/><br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Founder+%26+CEO+%40+Eagle+Eye+Systems;Building+AI+systems+that+actually+ship;Agentic+automation+%C2%B7+GTM+engineering+%C2%B7+full-stack+products;Currently+building+Rhelo+%2B+Music+%26+Beats" alt="Typing introduction" />
+  <p>
+    <a href="https://eagleeyesystems.in/"><img src="https://img.shields.io/badge/Eagle_Eye_Systems-Explore_company-05070B?style=for-the-badge&logoColor=FFFFFF&labelColor=1D4ED8" alt="Explore Eagle Eye Systems" /></a>
+    <a href="https://rhelobible.com/"><img src="https://img.shields.io/badge/Rhelo-Visit_site-05070B?style=for-the-badge&logoColor=FFFFFF&labelColor=2563EB" alt="Visit Rhelo" /></a>
+    <a href="https://jedix420.github.io/musicandbeats/"><img src="https://img.shields.io/badge/Music_%26_Beats-Launch_live-05070B?style=for-the-badge&logoColor=FFFFFF&labelColor=3B82F6" alt="Launch Music and Beats" /></a>
+    <a href="mailto:jay@eagleeyesystems.in"><img src="https://img.shields.io/badge/Build_with_me-jay%40eagleeyesystems.in-05070B?style=for-the-badge&logoColor=FFFFFF&labelColor=1E3A8A" alt="Email Jay" /></a>
+  </p>
 </div>
 
 ---
@@ -25,48 +26,48 @@
   </a>
 </td>
 <td valign="middle">
-  <strong>I’m the Founder & CEO of <a href="https://eagleeyesystems.in/">Eagle Eye Systems</a></strong> — an AI engineering company focused on enterprise AI infrastructure, autonomous GTM systems, and high-performance digital products.
+  <strong>I’m the Founder &amp; CEO of <a href="https://eagleeyesystems.in/">Eagle Eye Systems</a></strong> — an AI engineering company focused on enterprise AI infrastructure, autonomous GTM systems, and high-performance digital products.
   <br/><br/>
-  We build private intelligence layers, semantic retrieval systems, agentic workflows, signal-mapping and enrichment pipelines, automation infrastructure, and premium web experiences for teams that want AI to become operational infrastructure rather than another disconnected tool.
+  We design private intelligence layers, semantic retrieval systems, agentic workflows, signal-mapping and enrichment pipelines, automation infrastructure, and premium web experiences for teams that want AI to become operational infrastructure rather than another disconnected tool.
   <br/><br/>
   <a href="https://eagleeyesystems.in/"><strong>Explore Eagle Eye Systems →</strong></a>
 </td>
 </tr>
 </table>
 
-<img src="./assets/build-system.svg" width="100%" alt="Signal to intelligence to action to feedback systems map" />
+<img src="./assets/build-system.svg" width="100%" alt="How I think about systems: signals, intelligence, action, and feedback" />
 
 ### What I spend most of my time building
 
-- **Private AI + knowledge systems** — semantic RAG, internal search, document intelligence, local/private deployments and decision-support layers.
-- **Agentic automation** — systems that observe signals, reason over context, trigger tools, route work and keep humans in the loop where judgment matters.
-- **GTM engineering** — enrichment, intent/signal mapping, research pipelines, outbound orchestration, reporting and workflow automation.
-- **Full-stack products** — polished React/Next.js interfaces, APIs, data layers, native wrappers, cloud/edge deployments and the infrastructure around them.
+- **Private AI + knowledge systems** — semantic RAG, internal search, document intelligence, local or private deployments, and decision-support layers.
+- **Agentic automation** — systems that observe signals, reason over context, trigger tools, route work, and keep humans in the loop where judgment matters.
+- **GTM engineering** — enrichment, intent and signal mapping, research pipelines, outbound orchestration, reporting, and workflow automation.
+- **Full-stack products** — polished React and Next.js interfaces, APIs, data layers, native wrappers, and cloud or edge deployments.
 - **Fast experimental systems** — I like compressing the distance between an idea and a working product, then hardening what proves useful.
 
-> **The pattern I care about:** capture signal → turn it into intelligence → make the system act → measure the feedback → compound what works.
+> **The pattern I care about:** observe signals → produce intelligence → trigger action → learn from feedback → compound what works.
 
 ---
 
 ## Personal build lab
 
-Outside Eagle Eye, GitHub is where I prototype products, interfaces, research tools and occasionally things I simply wish existed.
+Outside Eagle Eye, GitHub is where I prototype products, interfaces, research tools, and the occasional thing I simply wish existed.
 
-<img src="./assets/project-lab.svg" width="100%" alt="Featured personal projects: Rhelo, Music and Beats, TrialIQ and Sales Bro V3" />
+<img src="./assets/project-lab.svg" width="100%" alt="Selected personal projects: Rhelo, Music and Beats, TrialIQ, and Sales Bro V3" />
 
-### Rhelo — offline-first Bible study, built like a serious research tool
+### Rhelo — offline-first Bible study, built as a serious research environment
 
 <a href="https://rhelobible.com/">
   <img src="./assets/rhelo-hero.svg" width="100%" alt="Rhelo offline-first Bible study and research environment" />
 </a>
 
-**Rhelo** is my offline-first Bible study environment for people who want to move naturally between reading and serious research. It brings together aligned English + original-language Scripture, morphology, lexicons, cross-references, maps, study capture, offline speech, native PDF export and persistent study sessions.
+**Rhelo** is my offline-first Bible study environment for people who want to move naturally between reading and serious research. It brings together aligned English and original-language Scripture, morphology, lexicons, cross-references, maps, study capture, offline speech, native PDF export, and persistent study sessions.
 
 Under the hood, the desktop application uses **Next.js + Tauri + Rust + SQLite**, with native IPC rather than a localhost backend. The goal is a fast, focused research workspace that remains useful even when the network disappears.
 
 <div align="center">
-  <a href="https://rhelobible.com/"><img src="https://img.shields.io/badge/Rhelo-Explore_the_site-05070B?style=for-the-badge&logo=bookstack&logoColor=FFFFFF&labelColor=2563EB" alt="Explore Rhelo" /></a>
-  <a href="https://rhelobible.com/beta"><img src="https://img.shields.io/badge/Private_Beta-Become_a_tester-05070B?style=for-the-badge&logo=checkmarx&logoColor=FFFFFF&labelColor=1D4ED8" alt="Become a Rhelo beta tester" /></a>
+  <a href="https://rhelobible.com/"><img src="https://img.shields.io/badge/Rhelo-Explore_the_site-05070B?style=for-the-badge&logoColor=FFFFFF&labelColor=2563EB" alt="Explore Rhelo" /></a>
+  <a href="https://rhelobible.com/beta"><img src="https://img.shields.io/badge/Private_Beta-Become_a_tester-05070B?style=for-the-badge&logoColor=FFFFFF&labelColor=1D4ED8" alt="Become a Rhelo beta tester" /></a>
   <a href="https://github.com/JEDIx420/rhelo_desktop"><img src="https://img.shields.io/badge/Desktop-Source-05070B?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=3B82F6" alt="Rhelo desktop source" /></a>
   <a href="https://github.com/JEDIx420/rhelo_ios"><img src="https://img.shields.io/badge/iOS-Source-05070B?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=60A5FA" alt="Rhelo iOS source" /></a>
 </div>
@@ -75,19 +76,21 @@ Under the hood, the desktop application uses **Next.js + Tauri + Rust + SQLite**
 
 <br/>
 
-### Music & Beats — a browser workstation I wanted to exist
+### Music & Beats — a browser music workstation for desktop and tablet
 
 <a href="https://jedix420.github.io/musicandbeats/">
-  <img src="https://raw.githubusercontent.com/JEDIx420/musicandbeats/main/assets/readme/hero-v11.svg" width="100%" alt="Music and Beats browser music workstation" />
+  <img src="./assets/musicandbeats-hero.svg" width="100%" alt="Music and Beats browser workstation" />
 </a>
 
-A local-first browser music workstation with **Smart Keys, an independently playable piano, bass instruments, guitar amp/pedal processing, beat generation, audio input, phase-aligned looping, timeline views and local projects**. It is designed as an actual playable interface across desktop and tablet rather than a desktop UI squeezed onto touchscreens.
+**Music &amp; Beats** is a local-first browser music workstation built for actual play, not just visual flair. It brings together Smart Keys, an independently playable piano, bass instruments, guitar amp and pedal processing, beat generation, audio input, phase-aligned looping, timeline views, and local projects.
+
+It is designed as a responsive instrument and composition surface across desktop and tablet rather than a desktop UI squeezed onto touchscreens.
 
 **Try it:** [Live app](https://jedix420.github.io/musicandbeats/) · [Source](https://github.com/JEDIx420/musicandbeats)
 
 <br/>
 
-### A few more builds
+### Selected additional builds
 
 | Project | What it explores | Stack / focus |
 |---|---|---|
@@ -96,9 +99,9 @@ A local-first browser music workstation with **Smart Keys, an independently play
 | **[n8n Workflows](https://github.com/JEDIx420/n8n-workflows)** | Automation patterns and reusable workflow experiments | n8n · APIs · webhooks · orchestration |
 | **[Browser Automation](https://github.com/JEDIx420/browser-automation)** | Browser-driven automation and agentic interaction experiments | automation · agents · web tooling |
 | **[Scraper Scrapy](https://github.com/JEDIx420/Scraper_Scrapy)** | Structured extraction and web-data pipelines | Python · Scrapy · data engineering |
-| **[Realtime Agents](https://github.com/JEDIx420/realtime-agents)** | Low-latency conversational / agent interface experiments | realtime AI · voice · interaction |
+| **[Realtime Agents](https://github.com/JEDIx420/realtime-agents)** | Low-latency conversational and agent interface experiments | realtime AI · voice · interaction |
 
-There are **dozens more repositories** across AI, automation, native apps, web products, scraping, local models, workflow tooling and experiments. Some are original products, some are research/reference forks, and some are intentionally messy build-lab archaeology — because I learn fastest by making things run.
+There are **dozens more repositories** across AI, automation, native apps, web products, scraping, local models, workflow tooling, and experiments. Some are original products, some are research or reference forks, and some are intentionally messy build-lab archaeology — because I learn fastest by making things run.
 
 [**→ Browse all repositories**](https://github.com/JEDIx420?tab=repositories)
 
@@ -114,39 +117,28 @@ There are **dozens more repositories** across AI, automation, native apps, web p
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI_Engineering-LLMs_%C2%B7_RAG_%C2%B7_Agents-05070B?style=for-the-badge&labelColor=1D4ED8" alt="AI Engineering" />
-  <img src="https://img.shields.io/badge/Automation-n8n_%C2%B7_APIs_%C2%B7_Orchestration-05070B?style=for-the-badge&labelColor=2563EB" alt="Automation engineering" />
-  <img src="https://img.shields.io/badge/Native_Products-Tauri_%C2%B7_Rust_%C2%B7_SQLite-05070B?style=for-the-badge&labelColor=3B82F6" alt="Native products" />
-  <img src="https://img.shields.io/badge/Product_Engineering-React_%C2%B7_Next.js_%C2%B7_TypeScript-05070B?style=for-the-badge&labelColor=1E40AF" alt="Product Engineering" />
-  <img src="https://img.shields.io/badge/GTM_Engineering-Signals_%C2%B7_Enrichment_%C2%B7_Automation-05070B?style=for-the-badge&labelColor=1D4ED8" alt="GTM Engineering" />
+  <img src="https://img.shields.io/badge/n8n-Workflow_Orchestration-05070B?style=for-the-badge&labelColor=2563EB" alt="n8n" />
+  <img src="https://img.shields.io/badge/Tauri-Native_Apps-05070B?style=for-the-badge&labelColor=3B82F6" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Web_Audio-Realtime_DSP-05070B?style=for-the-badge&labelColor=60A5FA" alt="Web Audio" />
+  <img src="https://img.shields.io/badge/GTM_Engineering-Signals_%C2%B7_Enrichment_%C2%B7_Automation-05070B?style=for-the-badge&labelColor=1E3A8A" alt="GTM Engineering" />
 </div>
 
 ### The skill stack behind the repos
 
 **AI & intelligence**  
-LLM application architecture · semantic RAG · tool-using agents · prompt/system design · retrieval pipelines · local-model experimentation · applied ML patterns
+LLM application architecture · semantic RAG · tool-using agents · prompt and system design · retrieval pipelines · local-model experimentation · applied machine-learning patterns
 
 **Automation & GTM systems**  
 n8n · webhooks · enrichment pipelines · research automation · signal detection · browser automation · scraping · workflow orchestration · reporting systems
 
 **Product engineering**  
-React · Next.js · TypeScript · Node.js · Python · Rust · Tauri · REST APIs · Web Audio · PWAs · responsive/touch-first UX
+React · Next.js · TypeScript · Node.js · Python · Rust · Tauri · REST APIs · Web Audio · PWAs · responsive, touch-first UX
 
 **Data & infrastructure**  
-PostgreSQL · SQLite · Supabase · Prisma · Docker · Cloudflare · GitHub Actions · edge/serverless patterns · self-hosted systems
+PostgreSQL · SQLite · Supabase · Prisma · Docker · Cloudflare · GitHub Actions · edge and serverless patterns · self-hosted systems
 
 **How I work**  
 Product thinking first. Fast prototypes when uncertainty is high. Strong interfaces because adoption matters. Automation wherever repeated human effort adds no value. Enough infrastructure to make the thing dependable — not infrastructure for its own sake.
-
----
-
-## GitHub telemetry
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=JEDIx420&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=CBD5E1&icon_color=FFFFFF" alt="Jay's GitHub stats" />
-  <img height="175" src="https://streak-stats.demolab.com?user=JEDIx420&hide_border=true&background=00000000&ring=2563EB&fire=60A5FA&currStreakLabel=3B82F6&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Jay's GitHub streak" />
-</div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEDIx420&bg_color=00000000&color=94A3B8&line=2563EB&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 ---
 
