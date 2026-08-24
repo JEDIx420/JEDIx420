@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Jayanand J — Founder & CEO at Eagle Eye Systems" />
+  <img src="./assets/profile-hero.svg" width="100%" alt="Jayanand J — Founder & CEO at Eagle Eye R&D Labs" />
 
   <p>
     <strong>Building AI systems that ship.</strong><br/>
-    Founder &amp; CEO at Eagle Eye Systems · Enterprise AI · Agentic Automation · GTM Engineering · Product Engineering
+    Founder &amp; CEO at Eagle Eye R&amp;D Labs · Enterprise AI · Agentic Automation · GTM Engineering · Product Engineering
   </p>
 
   <p>
-    <a href="https://eagleeyesystems.in/"><img src="https://img.shields.io/badge/Eagle_Eye_Systems-Explore_company-05070B?style=for-the-badge&logoColor=FFFFFF&labelColor=1D4ED8" alt="Explore Eagle Eye Systems" /></a>
+    <a href="https://eagleeyesystems.in/"><img src="https://img.shields.io/badge/Eagle_Eye_R%26D_Labs-Explore_company-05070B?style=for-the-badge&logoColor=FFFFFF&labelColor=1D4ED8" alt="Explore Eagle Eye R&D Labs" /></a>
     <a href="https://rhelobible.com/"><img src="https://img.shields.io/badge/Rhelo-Visit_site-05070B?style=for-the-badge&logoColor=FFFFFF&labelColor=2563EB" alt="Visit Rhelo" /></a>
     <a href="https://jedix420.github.io/musicandbeats/"><img src="https://img.shields.io/badge/Music_%26_Beats-Launch_live-05070B?style=for-the-badge&logoColor=FFFFFF&labelColor=3B82F6" alt="Launch Music and Beats" /></a>
     <a href="mailto:jay@eagleeyesystems.in"><img src="https://img.shields.io/badge/Build_with_me-jay%40eagleeyesystems.in-05070B?style=for-the-badge&logoColor=FFFFFF&labelColor=1E3A8A" alt="Email Jay" /></a>
@@ -16,21 +16,21 @@
 
 ---
 
-## Founder Mode: Eagle Eye Systems
+## Founder Mode: Eagle Eye R&D Labs
 
 <table>
 <tr>
 <td width="155" align="center" valign="middle">
   <a href="https://eagleeyesystems.in/">
-    <img src="https://eagleeyesystems.in/logo.jpg" width="112" alt="Eagle Eye Systems logo" />
+    <img src="https://eagleeyesystems.in/logo.jpg" width="112" alt="Eagle Eye R&D Labs logo" />
   </a>
 </td>
 <td valign="middle">
-  <strong>I’m the Founder &amp; CEO of <a href="https://eagleeyesystems.in/">Eagle Eye Systems</a></strong> — an AI engineering company focused on enterprise AI infrastructure, autonomous GTM systems, and high-performance digital products.
+  <strong>I’m the Founder &amp; CEO of <a href="https://eagleeyesystems.in/">Eagle Eye R&amp;D Labs</a></strong> — an AI engineering company focused on enterprise AI infrastructure, autonomous GTM systems, and high-performance digital products.
   <br/><br/>
   We design private intelligence layers, semantic retrieval systems, agentic workflows, signal-mapping and enrichment pipelines, automation infrastructure, and premium web experiences for teams that want AI to become operational infrastructure rather than another disconnected tool.
   <br/><br/>
-  <a href="https://eagleeyesystems.in/"><strong>Explore Eagle Eye Systems →</strong></a>
+  <a href="https://eagleeyesystems.in/"><strong>Explore Eagle Eye R&amp;D Labs →</strong></a>
 </td>
 </tr>
 </table>
@@ -145,7 +145,7 @@ Product thinking first. Fast prototypes when uncertainty is high. Strong interfa
 ## Current Coordinates
 
 ```text
-company     Eagle Eye Systems
+company     Eagle Eye R&D Labs
 role        Founder & CEO
 building    enterprise AI · agentic automation · GTM infrastructure
 personal    Rhelo · Music & Beats · experimental product systems
