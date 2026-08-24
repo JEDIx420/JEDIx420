@@ -1,77 +1,45 @@
-<svg width="1200" height="540" viewBox="0 0 1200 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="540" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#F5F9FF"/>
-    </linearGradient>
-    <linearGradient id="line" x1="154" y1="248" x2="1046" y2="248" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#93C5FD"/>
-      <stop offset="1" stop-color="#2563EB"/>
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
-      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#1D4ED8" flood-opacity="0.08"/>
-    </filter>
-    <style>
-      .pulse { animation: pulse 3s ease-in-out infinite; }
-      .dash { stroke-dasharray: 10 10; animation: dash 4s linear infinite; }
-      @keyframes pulse { 0%,100%{opacity:.4} 50%{opacity:1} }
-      @keyframes dash { to { stroke-dashoffset: -40; } }
-    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="700" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F5F9FF"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#1D4ED8" flood-opacity="0.08"/></filter>
+    <style>.pulse{animation:p 3s ease-in-out infinite}@keyframes p{0%,100%{opacity:.4}50%{opacity:1}}</style>
   </defs>
-  <rect width="1200" height="540" rx="24" fill="url(#bg)"/>
-  <rect x="0.75" y="0.75" width="1198.5" height="538.5" rx="23.25" stroke="#BFDBFE" stroke-width="1.5"/>
-  <text x="52" y="58" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="29" font-weight="800">HOW I THINK ABOUT SYSTEMS</text>
-  <text x="52" y="88" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="18">I like systems that turn real-world signals into useful action, then learn from the outcome.</text>
-  <text x="52" y="114" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1.1">SIGNALS → INTELLIGENCE → ACTION → FEEDBACK</text>
-  <path d="M154 248H1046" stroke="url(#line)" stroke-width="2.5" class="dash"/>
-  <g transform="translate(52 148)" filter="url(#shadow)">
-    <rect width="250" height="196" rx="22" fill="#FFFFFF" stroke="#93C5FD" stroke-width="2"/>
-    <circle cx="36" cy="34" r="9" fill="#0F172A" class="pulse"/>
-    <text x="56" y="41" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Signals</text>
-    <text x="24" y="76" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="17">Capture the raw inputs that matter:</text>
-    <text x="24" y="107" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• market and intent signals</text>
-    <text x="24" y="133" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• product, user, and workflow events</text>
-    <text x="24" y="159" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• documents, web data, and internal records</text>
-    <text x="24" y="182" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="15">Scrape · ingest · enrich · observe</text>
+  <rect width="1200" height="700" rx="24" fill="url(#bg)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="698.5" rx="23.25" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="52" y="58" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="30" font-weight="800">HOW I THINK ABOUT SYSTEMS</text>
+  <text x="52" y="91" fill="#334155" font-family="Inter,Arial,sans-serif" font-size="19">Useful systems do four things well: they observe, understand, act, and improve.</text>
+  <text x="52" y="119" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" letter-spacing="1.1">SIGNALS → INTELLIGENCE → ACTION → FEEDBACK</text>
+  <g transform="translate(52 154)" filter="url(#shadow)">
+    <rect width="530" height="190" rx="22" fill="#FFFFFF" stroke="#93C5FD" stroke-width="2"/><circle cx="34" cy="34" r="8" fill="#0F172A" class="pulse"/>
+    <text x="54" y="42" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="800">1. Signals</text>
+    <text x="26" y="78" fill="#334155" font-family="Inter,Arial,sans-serif" font-size="18">Capture the inputs that describe what is happening.</text>
+    <text x="26" y="112" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="17">• market, intent, product, and user events</text>
+    <text x="26" y="140" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="17">• documents, web data, and internal records</text>
+    <text x="26" y="168" fill="#64748B" font-family="Inter,Arial,sans-serif" font-size="16">Scrape · ingest · enrich · observe</text>
   </g>
-  <g transform="translate(334 148)" filter="url(#shadow)">
-    <rect width="250" height="196" rx="22" fill="#FFFFFF" stroke="#60A5FA" stroke-width="2"/>
-    <circle cx="36" cy="34" r="9" fill="#2563EB" class="pulse"/>
-    <text x="56" y="41" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Intelligence</text>
-    <text x="24" y="76" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="17">Turn raw data into something useful:</text>
-    <text x="24" y="107" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• retrieve the right context</text>
-    <text x="24" y="133" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• classify, rank, and reason</text>
-    <text x="24" y="159" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• produce decisions, summaries, or next steps</text>
-    <text x="24" y="182" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="15">RAG · ML · agents · rules</text>
+  <g transform="translate(618 154)" filter="url(#shadow)">
+    <rect width="530" height="190" rx="22" fill="#FFFFFF" stroke="#60A5FA" stroke-width="2"/><circle cx="34" cy="34" r="8" fill="#2563EB" class="pulse"/>
+    <text x="54" y="42" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="800">2. Intelligence</text>
+    <text x="26" y="78" fill="#334155" font-family="Inter,Arial,sans-serif" font-size="18">Turn raw inputs into context, priorities, and decisions.</text>
+    <text x="26" y="112" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="17">• retrieve the right context and classify what matters</text>
+    <text x="26" y="140" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="17">• rank, reason, summarize, and choose the next step</text>
+    <text x="26" y="168" fill="#64748B" font-family="Inter,Arial,sans-serif" font-size="16">RAG · ML · agents · rules</text>
   </g>
-  <g transform="translate(616 148)" filter="url(#shadow)">
-    <rect width="250" height="196" rx="22" fill="#FFFFFF" stroke="#3B82F6" stroke-width="2"/>
-    <circle cx="36" cy="34" r="9" fill="#3B82F6" class="pulse"/>
-    <text x="56" y="41" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Action</text>
-    <text x="24" y="76" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="17">Make the system do useful work:</text>
-    <text x="24" y="107" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• trigger workflows and API calls</text>
-    <text x="24" y="133" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• route tasks to tools or people</text>
-    <text x="24" y="159" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• update systems and deliver outputs</text>
-    <text x="24" y="182" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="15">Apps · APIs · workflows · GTM</text>
+  <g transform="translate(52 378)" filter="url(#shadow)">
+    <rect width="530" height="190" rx="22" fill="#FFFFFF" stroke="#3B82F6" stroke-width="2"/><circle cx="34" cy="34" r="8" fill="#3B82F6" class="pulse"/>
+    <text x="54" y="42" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="800">3. Action</text>
+    <text x="26" y="78" fill="#334155" font-family="Inter,Arial,sans-serif" font-size="18">Make the system do useful work in the right place.</text>
+    <text x="26" y="112" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="17">• trigger workflows, APIs, applications, or outreach</text>
+    <text x="26" y="140" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="17">• route tasks to tools or people when judgment matters</text>
+    <text x="26" y="168" fill="#64748B" font-family="Inter,Arial,sans-serif" font-size="16">Ship · automate · orchestrate · scale</text>
   </g>
-  <g transform="translate(898 148)" filter="url(#shadow)">
-    <rect width="250" height="196" rx="22" fill="#FFFFFF" stroke="#1D4ED8" stroke-width="2"/>
-    <circle cx="36" cy="34" r="9" fill="#1D4ED8" class="pulse"/>
-    <text x="56" y="41" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Feedback</text>
-    <text x="24" y="76" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="17">Close the loop and improve:</text>
-    <text x="24" y="107" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• track outcomes and telemetry</text>
-    <text x="24" y="133" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• add human review where needed</text>
-    <text x="24" y="159" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• refine prompts, rules, and flows</text>
-    <text x="24" y="182" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="15">Measure · learn · improve · compound</text>
+  <g transform="translate(618 378)" filter="url(#shadow)">
+    <rect width="530" height="190" rx="22" fill="#FFFFFF" stroke="#1D4ED8" stroke-width="2"/><circle cx="34" cy="34" r="8" fill="#1D4ED8" class="pulse"/>
+    <text x="54" y="42" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="800">4. Feedback</text>
+    <text x="26" y="78" fill="#334155" font-family="Inter,Arial,sans-serif" font-size="18">Measure the outcome, then use it to make the system better.</text>
+    <text x="26" y="112" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="17">• capture analytics, telemetry, and human review</text>
+    <text x="26" y="140" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="17">• refine rules, prompts, models, and workflows</text>
+    <text x="26" y="168" fill="#64748B" font-family="Inter,Arial,sans-serif" font-size="16">Measure · learn · improve · compound</text>
   </g>
-  <circle cx="154" cy="248" r="5.5" fill="#0F172A"/>
-  <circle cx="436" cy="248" r="5.5" fill="#2563EB"/>
-  <circle cx="718" cy="248" r="5.5" fill="#3B82F6"/>
-  <circle cx="1000" cy="248" r="5.5" fill="#1D4ED8"/>
-  <g transform="translate(52 378)">
-    <rect width="1096" height="112" rx="20" fill="#F8FBFF" stroke="#DBEAFE"/>
-    <text x="26" y="38" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">Why this matters</text>
-    <text x="26" y="67" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="18">A system is only useful when it can sense what is happening, understand it in context, act in the right place, and learn from the outcome.</text>
-    <text x="26" y="92" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="18">That is the difference between a clever demo and something people can rely on every day.</text>
-  </g>
+  <g transform="translate(52 604)"><rect width="1096" height="58" rx="18" fill="#EFF6FF" stroke="#DBEAFE"/><text x="24" y="36" fill="#1E3A8A" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="700">The goal: move from a clever demo to a dependable system people can use every day.</text></g>
 </svg>
