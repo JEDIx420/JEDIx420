@@ -3,14 +3,14 @@
 
   <br/>
 
-  <a href="https://eagleeyesystems.in/"><img src="https://img.shields.io/badge/Eagle_Eye_Systems-Visit_company-0F172A?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Eagle Eye Systems" /></a>
-  <a href="https://rhelobible.com"><img src="https://img.shields.io/badge/Rhelo-Explore-083344?style=for-the-badge&logo=bookstack&logoColor=67E8F9" alt="Rhelo" /></a>
-  <a href="https://jedix420.github.io/musicandbeats/"><img src="https://img.shields.io/badge/Music_%26_Beats-Launch_live-172554?style=for-the-badge&logo=applemusic&logoColor=93C5FD" alt="Music and Beats" /></a>
-  <a href="mailto:jay@eagleeyesystems.in"><img src="https://img.shields.io/badge/Build_with_me-jay%40eagleeyesystems.in-3B0764?style=for-the-badge&logo=gmail&logoColor=E9D5FF" alt="Email Jay" /></a>
+  <a href="https://eagleeyesystems.in/"><img src="https://img.shields.io/badge/Eagle_Eye_Systems-Explore_company-05070B?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=1D4ED8" alt="Explore Eagle Eye Systems" /></a>
+  <a href="https://rhelobible.com/"><img src="https://img.shields.io/badge/Rhelo-Visit_site-05070B?style=for-the-badge&logo=bookstack&logoColor=FFFFFF&labelColor=2563EB" alt="Visit Rhelo" /></a>
+  <a href="https://jedix420.github.io/musicandbeats/"><img src="https://img.shields.io/badge/Music_%26_Beats-Launch_live-05070B?style=for-the-badge&logo=applemusic&logoColor=FFFFFF&labelColor=3B82F6" alt="Music and Beats" /></a>
+  <a href="mailto:jay@eagleeyesystems.in"><img src="https://img.shields.io/badge/Build_with_me-jay%40eagleeyesystems.in-05070B?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=1E3A8A" alt="Email Jay" /></a>
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Founder+%26+CEO+%40+Eagle+Eye+Systems;Building+AI+systems+that+actually+ship;Agentic+automation+%C2%B7+GTM+engineering+%C2%B7+full-stack+products;Currently+building+Rhelo+%2B+Music+%26+Beats" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Founder+%26+CEO+%40+Eagle+Eye+Systems;Building+AI+systems+that+actually+ship;Agentic+automation+%C2%B7+GTM+engineering+%C2%B7+full-stack+products;Currently+building+Rhelo+%2B+Music+%26+Beats" alt="Typing introduction" />
 </div>
 
 ---
@@ -28,6 +28,8 @@
   <strong>I’m the Founder & CEO of <a href="https://eagleeyesystems.in/">Eagle Eye Systems</a></strong> — an AI engineering company focused on enterprise AI infrastructure, autonomous GTM systems, and high-performance digital products.
   <br/><br/>
   We build private intelligence layers, semantic retrieval systems, agentic workflows, signal-mapping and enrichment pipelines, automation infrastructure, and premium web experiences for teams that want AI to become operational infrastructure rather than another disconnected tool.
+  <br/><br/>
+  <a href="https://eagleeyesystems.in/"><strong>Explore Eagle Eye Systems →</strong></a>
 </td>
 </tr>
 </table>
@@ -54,11 +56,22 @@ Outside Eagle Eye, GitHub is where I prototype products, interfaces, research to
 
 ### Rhelo — offline-first Bible study, built like a serious research tool
 
-<a href="https://github.com/JEDIx420/rhelo_desktop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JEDIx420&repo=rhelo_desktop&hide_border=true&bg_color=00000000&title_color=67E8F9&text_color=94A3B8&icon_color=60A5FA" alt="Rhelo desktop repository" /></a>
+<a href="https://rhelobible.com/">
+  <img src="./assets/rhelo-hero.svg" width="100%" alt="Rhelo offline-first Bible study and research environment" />
+</a>
 
-**Rhelo** combines aligned English + original-language Scripture study with morphology, lexicons, cross-references, maps, research capture, offline speech, native PDF export and persistent study sessions. The desktop architecture uses **Next.js + Tauri + Rust + SQLite**, with native IPC instead of a localhost backend.
+**Rhelo** is my offline-first Bible study environment for people who want to move naturally between reading and serious research. It brings together aligned English + original-language Scripture, morphology, lexicons, cross-references, maps, study capture, offline speech, native PDF export and persistent study sessions.
 
-**Explore:** [Desktop](https://github.com/JEDIx420/rhelo_desktop) · [iOS](https://github.com/JEDIx420/rhelo_ios) · [Rhelo website](https://rhelobible.com)
+Under the hood, the desktop application uses **Next.js + Tauri + Rust + SQLite**, with native IPC rather than a localhost backend. The goal is a fast, focused research workspace that remains useful even when the network disappears.
+
+<div align="center">
+  <a href="https://rhelobible.com/"><img src="https://img.shields.io/badge/Rhelo-Explore_the_site-05070B?style=for-the-badge&logo=bookstack&logoColor=FFFFFF&labelColor=2563EB" alt="Explore Rhelo" /></a>
+  <a href="https://rhelobible.com/beta"><img src="https://img.shields.io/badge/Private_Beta-Become_a_tester-05070B?style=for-the-badge&logo=checkmarx&logoColor=FFFFFF&labelColor=1D4ED8" alt="Become a Rhelo beta tester" /></a>
+  <a href="https://github.com/JEDIx420/rhelo_desktop"><img src="https://img.shields.io/badge/Desktop-Source-05070B?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=3B82F6" alt="Rhelo desktop source" /></a>
+  <a href="https://github.com/JEDIx420/rhelo_ios"><img src="https://img.shields.io/badge/iOS-Source-05070B?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=60A5FA" alt="Rhelo iOS source" /></a>
+</div>
+
+> **Want early access?** Visit **[rhelobible.com/beta](https://rhelobible.com/beta)** to apply as a beta tester and help shape the product as it evolves.
 
 <br/>
 
@@ -100,11 +113,11 @@ There are **dozens more repositories** across AI, automation, native apps, web p
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI_Engineering-LLMs_%C2%B7_RAG_%C2%B7_Agents-0F172A?style=for-the-badge" alt="AI Engineering" />
-  <img src="https://img.shields.io/badge/n8n-Workflow_Orchestration-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Tauri-Native_Apps-FFC131?style=for-the-badge&logo=tauri&logoColor=111827" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Web_Audio-Realtime_DSP-2563EB?style=for-the-badge" alt="Web Audio" />
-  <img src="https://img.shields.io/badge/GTM_Engineering-Signals_%C2%B7_Enrichment_%C2%B7_Automation-7C3AED?style=for-the-badge" alt="GTM Engineering" />
+  <img src="https://img.shields.io/badge/AI_Engineering-LLMs_%C2%B7_RAG_%C2%B7_Agents-05070B?style=for-the-badge&labelColor=1D4ED8" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Automation-n8n_%C2%B7_APIs_%C2%B7_Orchestration-05070B?style=for-the-badge&labelColor=2563EB" alt="Automation engineering" />
+  <img src="https://img.shields.io/badge/Native_Products-Tauri_%C2%B7_Rust_%C2%B7_SQLite-05070B?style=for-the-badge&labelColor=3B82F6" alt="Native products" />
+  <img src="https://img.shields.io/badge/Product_Engineering-React_%C2%B7_Next.js_%C2%B7_TypeScript-05070B?style=for-the-badge&labelColor=1E40AF" alt="Product Engineering" />
+  <img src="https://img.shields.io/badge/GTM_Engineering-Signals_%C2%B7_Enrichment_%C2%B7_Automation-05070B?style=for-the-badge&labelColor=1D4ED8" alt="GTM Engineering" />
 </div>
 
 ### The skill stack behind the repos
@@ -129,11 +142,11 @@ Product thinking first. Fast prototypes when uncertainty is high. Strong interfa
 ## GitHub telemetry
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=JEDIx420&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=67E8F9&text_color=CBD5E1&icon_color=C084FC" alt="Jay's GitHub stats" />
-  <img height="175" src="https://streak-stats.demolab.com?user=JEDIx420&hide_border=true&background=00000000&ring=67E8F9&fire=C084FC&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Jay's GitHub streak" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=JEDIx420&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=CBD5E1&icon_color=FFFFFF" alt="Jay's GitHub stats" />
+  <img height="175" src="https://streak-stats.demolab.com?user=JEDIx420&hide_border=true&background=00000000&ring=2563EB&fire=60A5FA&currStreakLabel=3B82F6&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Jay's GitHub streak" />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEDIx420&bg_color=00000000&color=94A3B8&line=67E8F9&point=C084FC&area=true&area_color=60A5FA&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEDIx420&bg_color=00000000&color=94A3B8&line=2563EB&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 ---
 
@@ -152,6 +165,8 @@ mode        build → test → automate → scale
   <h3>Building intelligence systems that move from demo → deployment → daily use.</h3>
   <p>
     <a href="https://eagleeyesystems.in/"><strong>eagleeyesystems.in</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://rhelobible.com/"><strong>rhelobible.com</strong></a>
     &nbsp;·&nbsp;
     <a href="mailto:jay@eagleeyesystems.in"><strong>jay@eagleeyesystems.in</strong></a>
     &nbsp;·&nbsp;
