@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Jayanand J — Founder & CEO at Eagle Eye R&D Labs" />
+  <img src="./assets/profile-hero-rd-v2.svg" width="100%" alt="Jayanand J — Founder & CEO at Eagle Eye R&D Labs" />
 
   <p>
     <strong>Building AI systems that ship.</strong><br/>
