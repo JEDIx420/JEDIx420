@@ -3,7 +3,7 @@
 
   <p>
     <strong>Building AI systems that ship.</strong><br/>
-    Founder &amp; CEO at Eagle Eye Systems · Enterprise AI · Agentic automation · GTM engineering · Product engineering
+    Founder &amp; CEO at Eagle Eye Systems · Enterprise AI · Agentic Automation · GTM Engineering · Product Engineering
   </p>
 
   <p>
@@ -16,7 +16,7 @@
 
 ---
 
-## Founder mode: Eagle Eye Systems
+## Founder Mode: Eagle Eye Systems
 
 <table>
 <tr>
@@ -37,7 +37,7 @@
 
 <img src="./assets/build-system.svg" width="100%" alt="How I think about systems: signals, intelligence, action, and feedback" />
 
-### What I spend most of my time building
+### What I Spend Most of My Time Building
 
 - **Private AI + knowledge systems** — semantic RAG, internal search, document intelligence, local or private deployments, and decision-support layers.
 - **Agentic automation** — systems that observe signals, reason over context, trigger tools, route work, and keep humans in the loop where judgment matters.
@@ -49,13 +49,13 @@
 
 ---
 
-## Personal build lab
+## Personal Build Lab
 
 Outside Eagle Eye, GitHub is where I prototype products, interfaces, research tools, and the occasional thing I simply wish existed.
 
 <img src="./assets/project-lab.svg" width="100%" alt="Selected personal projects: Rhelo, Music and Beats, TrialIQ, and Sales Bro V3" />
 
-### Rhelo — offline-first Bible study, built as a serious research environment
+### Rhelo — Offline-First Bible Study, Built as a Serious Research Environment
 
 <a href="https://rhelobible.com/">
   <img src="./assets/rhelo-hero.svg" width="100%" alt="Rhelo offline-first Bible study and research environment" />
@@ -76,7 +76,7 @@ Under the hood, the desktop application uses **Next.js + Tauri + Rust + SQLite**
 
 <br/>
 
-### Music & Beats — a browser music workstation for desktop and tablet
+### Music & Beats — A Browser Music Workstation for Desktop and Tablet
 
 <a href="https://jedix420.github.io/musicandbeats/">
   <img src="./assets/musicandbeats-hero.svg" width="100%" alt="Music and Beats browser workstation" />
@@ -90,7 +90,7 @@ It is designed as a responsive instrument and composition surface across desktop
 
 <br/>
 
-### Selected additional builds
+### Selected Additional Builds
 
 | Project | What it explores | Stack / focus |
 |---|---|---|
@@ -107,7 +107,7 @@ There are **dozens more repositories** across AI, automation, native apps, web p
 
 ---
 
-## Systems I’m strongest in
+## Systems I’m Strongest In
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,rust,postgres,supabase,docker,cloudflare,git,github,vscode&perline=14" alt="Core technology stack" />
@@ -123,26 +123,26 @@ There are **dozens more repositories** across AI, automation, native apps, web p
   <img src="https://img.shields.io/badge/GTM_Engineering-Signals_%C2%B7_Enrichment_%C2%B7_Automation-05070B?style=for-the-badge&labelColor=1E3A8A" alt="GTM Engineering" />
 </div>
 
-### The skill stack behind the repos
+### The Skill Stack Behind the Repos
 
-**AI & intelligence**  
+**AI & Intelligence**  
 LLM application architecture · semantic RAG · tool-using agents · prompt and system design · retrieval pipelines · local-model experimentation · applied machine-learning patterns
 
-**Automation & GTM systems**  
+**Automation & GTM Systems**  
 n8n · webhooks · enrichment pipelines · research automation · signal detection · browser automation · scraping · workflow orchestration · reporting systems
 
-**Product engineering**  
+**Product Engineering**  
 React · Next.js · TypeScript · Node.js · Python · Rust · Tauri · REST APIs · Web Audio · PWAs · responsive, touch-first UX
 
-**Data & infrastructure**  
+**Data & Infrastructure**  
 PostgreSQL · SQLite · Supabase · Prisma · Docker · Cloudflare · GitHub Actions · edge and serverless patterns · self-hosted systems
 
-**How I work**  
+**How I Work**  
 Product thinking first. Fast prototypes when uncertainty is high. Strong interfaces because adoption matters. Automation wherever repeated human effort adds no value. Enough infrastructure to make the thing dependable — not infrastructure for its own sake.
 
 ---
 
-## Current coordinates
+## Current Coordinates
 
 ```text
 company     Eagle Eye Systems
