@@ -1,0 +1,91 @@
+<svg width="1200" height="470" viewBox="0 0 1200 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F5F9FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1D4ED8" flood-opacity="0.08"/>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#2563EB" stroke-opacity="0.06"/>
+    </pattern>
+    <style>.pulse{animation:pulse 3s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}</style>
+  </defs>
+  <rect width="1200" height="470" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="470" rx="24" fill="url(#grid)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="468.5" rx="23.25" stroke="#BFDBFE" stroke-width="1.5"/>
+  <text x="54" y="58" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800">MUSIC &amp; BEATS</text>
+  <text x="54" y="88" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="18">Browser music workstation for desktop and tablet</text>
+  <text x="54" y="112" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1.1">PLAY / RECORD / LOOP / SAVE / PERFORM</text>
+  <g transform="translate(54 146)" filter="url(#shadow)">
+    <rect width="410" height="258" rx="24" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="2"/>
+    <text x="26" y="42" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800">Built to feel playable</text>
+    <text x="26" y="74" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="18">A local-first workstation for turning an idea into a groove, loop, or sketch without leaving the browser.</text>
+    <g transform="translate(26 108)">
+      <rect width="150" height="34" rx="17" fill="#EFF6FF" stroke="#93C5FD"/>
+      <text x="75" y="22" text-anchor="middle" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">Smart Keys</text>
+    </g>
+    <g transform="translate(190 108)">
+      <rect width="116" height="34" rx="17" fill="#EFF6FF" stroke="#93C5FD"/>
+      <text x="58" y="22" text-anchor="middle" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">Beats</text>
+    </g>
+    <g transform="translate(26 154)">
+      <rect width="118" height="34" rx="17" fill="#EFF6FF" stroke="#93C5FD"/>
+      <text x="59" y="22" text-anchor="middle" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">Guitar</text>
+    </g>
+    <g transform="translate(158 154)">
+      <rect width="106" height="34" rx="17" fill="#EFF6FF" stroke="#93C5FD"/>
+      <text x="53" y="22" text-anchor="middle" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">Bass</text>
+    </g>
+    <g transform="translate(278 154)">
+      <rect width="104" height="34" rx="17" fill="#EFF6FF" stroke="#93C5FD"/>
+      <text x="52" y="22" text-anchor="middle" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">Audio</text>
+    </g>
+    <text x="26" y="218" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• phase-aligned loop recording and transport</text>
+    <text x="26" y="242" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="17">• local projects, waveform timeline, and quick sketching</text>
+  </g>
+  <g transform="translate(500 130)" filter="url(#shadow)">
+    <rect width="646" height="288" rx="26" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="2"/>
+    <rect x="0" y="0" width="646" height="46" rx="26" fill="#F8FBFF"/>
+    <circle cx="26" cy="23" r="6" fill="#0F172A"/>
+    <circle cx="48" cy="23" r="6" fill="#2563EB"/>
+    <circle cx="70" cy="23" r="6" fill="#93C5FD"/>
+    <text x="96" y="29" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">Music &amp; Beats Workstation</text>
+    <rect x="22" y="62" width="226" height="104" rx="18" fill="#F8FBFF" stroke="#DBEAFE"/>
+    <text x="40" y="88" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Smart Keys</text>
+    <g transform="translate(38 104)">
+      <rect width="24" height="36" rx="12" fill="#2563EB" class="pulse"/>
+      <rect x="30" width="24" height="36" rx="12" fill="#3B82F6"/>
+      <rect x="60" width="24" height="36" rx="12" fill="#60A5FA"/>
+      <rect x="90" width="24" height="36" rx="12" fill="#93C5FD"/>
+      <rect x="120" width="24" height="36" rx="12" fill="#2563EB"/>
+      <rect x="150" width="24" height="36" rx="12" fill="#3B82F6"/>
+      <rect x="180" width="24" height="36" rx="12" fill="#60A5FA"/>
+    </g>
+    <rect x="268" y="62" width="356" height="104" rx="18" fill="#F8FBFF" stroke="#DBEAFE"/>
+    <text x="286" y="88" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Timeline</text>
+    <rect x="286" y="104" width="310" height="16" rx="8" fill="#DBEAFE"/>
+    <rect x="286" y="132" width="92" height="14" rx="7" fill="#2563EB"/>
+    <rect x="392" y="132" width="140" height="14" rx="7" fill="#60A5FA"/>
+    <rect x="546" y="132" width="50" height="14" rx="7" fill="#93C5FD"/>
+    <rect x="22" y="186" width="184" height="78" rx="18" fill="#F8FBFF" stroke="#DBEAFE"/>
+    <text x="40" y="212" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Beats</text>
+    <g transform="translate(40 228)">
+      <rect width="14" height="14" rx="4" fill="#2563EB"/>
+      <rect x="20" width="14" height="14" rx="4" fill="#DBEAFE"/>
+      <rect x="40" width="14" height="14" rx="4" fill="#2563EB"/>
+      <rect x="60" width="14" height="14" rx="4" fill="#DBEAFE"/>
+      <rect x="80" width="14" height="14" rx="4" fill="#2563EB"/>
+      <rect x="100" width="14" height="14" rx="4" fill="#DBEAFE"/>
+      <rect x="120" width="14" height="14" rx="4" fill="#2563EB"/>
+    </g>
+    <rect x="226" y="186" width="190" height="78" rx="18" fill="#F8FBFF" stroke="#DBEAFE"/>
+    <text x="244" y="212" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Input and FX</text>
+    <text x="244" y="238" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="15">guitar · vocals · monitor · record</text>
+    <rect x="436" y="186" width="188" height="78" rx="18" fill="#F8FBFF" stroke="#DBEAFE"/>
+    <text x="454" y="212" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Projects</text>
+    <text x="454" y="238" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="15">save · reopen · rename · keep building</text>
+  </g>
+  <text x="54" y="442" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="17">Core stack: Web Audio + PWA + IndexedDB + realtime DSP, designed for a responsive desktop and tablet experience.</text>
+</svg>
