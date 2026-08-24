@@ -1,0 +1,55 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F2F7FF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="58" y1="0" x2="650" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 155) rotate(140) scale(340 235)">
+      <stop stop-color="#3B82F6" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#2563EB" stroke-opacity="0.075"/>
+    </pattern>
+    <linearGradient id="scanFill" x1="0" y1="0" x2="160" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" stop-opacity="0"/>
+      <stop offset="0.78" stop-color="#2563EB" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#93C5FD" stop-opacity="0.18"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="22" flood-color="#1D4ED8" flood-opacity="0.09"/>
+    </filter>
+    <clipPath id="clip"><rect width="1200" height="340" rx="24"/></clipPath>
+    <style>
+      .scan { animation: scan 6s linear infinite; }
+      @keyframes scan { 0% { transform: translateX(-180px); } 100% { transform: translateX(1380px); } }
+    </style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <rect width="1200" height="340" fill="url(#blueGlow)"/>
+    <g class="scan">
+      <rect width="160" height="340" fill="url(#scanFill)"/>
+      <line x1="158" y1="0" x2="158" y2="340" stroke="#60A5FA" stroke-opacity="0.20"/>
+    </g>
+    <g transform="translate(58 62)">
+      <text x="0" y="86" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-1.8">JAYANAND J</text>
+      <rect x="0" y="108" width="485" height="3" rx="1.5" fill="url(#accent)"/>
+      <text x="0" y="149" fill="#111827" font-family="Inter,Arial,sans-serif" font-size="30" font-weight="700">Founder &amp; CEO · Eagle Eye R&amp;D Labs</text>
+      <text x="0" y="226" fill="#475569" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" font-weight="600">@JEDIx420 / BUILD → SHIP → AUTOMATE → SCALE</text>
+    </g>
+    <g>
+      <rect x="866" y="42" width="265" height="255" rx="30" fill="#FFFFFF" fill-opacity="0.88" stroke="#DBEAFE"/>
+      <g transform="translate(910 66) scale(0.43)">
+        <path d="M 322 17 L 248 0 L 170 9 L 107 39 L 44 103 L 8 181 L 0 225 L 1 271 L 13 319 L 28 349 L 59 385 L 80 400 L 151 424 L 190 425 L 232 417 L 307 378 L 367 312 L 400 240 L 409 170 L 374 192 L 366 243 L 346 292 L 314 329 L 290 346 L 246 361 L 201 360 L 160 346 L 122 317 L 103 336 L 132 361 L 172 379 L 204 385 L 257 382 L 210 400 L 153 403 L 100 386 L 60 354 L 204 206 L 226 251 L 239 215 L 232 177 L 363 43 Z M 133 59 L 134 60 L 113 80 L 95 103 L 75 139 L 66 164 L 59 197 L 58 234 L 63 266 L 76 301 L 46 333 L 34 310 L 26 285 L 22 263 L 21 230 L 24 207 L 28 190 L 36 167 L 46 146 L 54 132 L 70 110 L 87 92 L 102 79 L 123 64 Z M 306 50 L 308 52 L 96 279 L 89 265 L 81 235 L 79 220 L 79 193 L 81 177 L 87 151 L 94 132 L 107 107 L 127 80 L 146 62 L 160 52 L 185 39 L 197 36 L 213 34 L 253 35 L 279 40 Z" fill="#1F2933" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="338.5" rx="23.25" stroke="#BFDBFE" stroke-width="1.5"/>
+</svg>
