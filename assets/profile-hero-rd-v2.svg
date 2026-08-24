@@ -1,0 +1,75 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F2F7FF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="58" y1="0" x2="650" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 155) rotate(140) scale(350 240)">
+      <stop stop-color="#3B82F6" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#2563EB" stroke-opacity="0.075"/>
+    </pattern>
+    <linearGradient id="scanFill" x1="0" y1="0" x2="160" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" stop-opacity="0"/>
+      <stop offset="0.78" stop-color="#2563EB" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#93C5FD" stop-opacity="0.18"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="20" flood-color="#1D4ED8" flood-opacity="0.08"/>
+    </filter>
+    <clipPath id="clip"><rect width="1200" height="340" rx="24"/></clipPath>
+    <style>
+      .scan { animation: scan 6s linear infinite; }
+      .focus1 { animation: focus1 9s infinite; }
+      .focus2 { animation: focus2 9s infinite; }
+      .focus3 { animation: focus3 9s infinite; }
+      .cursor { animation: cursor 0.9s step-end infinite; }
+      @keyframes scan { 0% { transform: translateX(-180px); } 100% { transform: translateX(1380px); } }
+      @keyframes focus1 { 0%,28% { opacity:1; } 33%,100% { opacity:0; } }
+      @keyframes focus2 { 0%,32% { opacity:0; } 37%,61% { opacity:1; } 66%,100% { opacity:0; } }
+      @keyframes focus3 { 0%,65% { opacity:0; } 70%,95% { opacity:1; } 100% { opacity:0; } }
+      @keyframes cursor { 0%,49% { opacity:1; } 50%,100% { opacity:0; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <rect width="1200" height="340" fill="url(#blueGlow)"/>
+
+    <g class="scan">
+      <rect width="160" height="340" fill="url(#scanFill)"/>
+      <line x1="158" y1="0" x2="158" y2="340" stroke="#60A5FA" stroke-opacity="0.20"/>
+    </g>
+
+    <g transform="translate(58 62)">
+      <text x="0" y="86" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-1.8">JAYANAND J</text>
+      <rect x="0" y="108" width="485" height="3" rx="1.5" fill="url(#accent)"/>
+      <text x="0" y="149" fill="#111827" font-family="Inter,Arial,sans-serif" font-size="30" font-weight="700">Founder &amp; CEO · Eagle Eye R&amp;D Labs</text>
+      <text x="0" y="226" fill="#475569" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" font-weight="600">@JEDIx420 / BUILD → SHIP → AUTOMATE → SCALE</text>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="790" y="64" width="350" height="202" rx="26" fill="#FFFFFF" fill-opacity="0.78" stroke="#DBEAFE"/>
+      <text x="822" y="104" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" font-weight="700" letter-spacing="1.5">CURRENT FOCUS</text>
+      <rect x="822" y="119" width="74" height="2" rx="1" fill="#2563EB"/>
+
+      <text class="focus1" x="822" y="174" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800">AI Systems</text>
+      <text class="focus2" x="822" y="174" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800">Agentic Automation</text>
+      <text class="focus3" x="822" y="174" fill="#0F172A" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800">Enterprise Software</text>
+      <text class="cursor" x="1110" y="174" fill="#2563EB" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="34" font-weight="700">|</text>
+
+      <text x="822" y="216" fill="#475569" font-family="Inter,Arial,sans-serif" font-size="17">Designing and shipping systems for</text>
+      <text x="822" y="242" fill="#475569" font-family="Inter,Arial,sans-serif" font-size="17">real operational use.</text>
+    </g>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="338.5" rx="23.25" stroke="#BFDBFE" stroke-width="1.5"/>
+</svg>
